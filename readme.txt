@@ -12,3 +12,7 @@ remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File VNote_win_X64_portable_2.8.2.zip is 77.59 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
 To github.com:Tomosom/others_1.git
    ead5b9a..22b3c7b  master -> master
+
+
+vnote issues
+https://github.com/tamlok/vnote/issues/853

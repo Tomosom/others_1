@@ -1,0 +1,62 @@
+{
+    "files": [
+        {
+            "name": "build.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "export.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "faqs.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "full_text_search.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "getting_started.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "magic_word.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "notes_management.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "snippet.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "template.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "themes_and_styles.md",
+            "tags": [
+            ]
+        },
+        {
+            "name": "why_vnote.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
