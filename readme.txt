@@ -16,3 +16,7 @@ To github.com:Tomosom/others_1.git
 
 vnote issues
 https://github.com/tamlok/vnote/issues/853
+
+
+snippets默认目录:C:\Users\Administrator\AppData\Roaming\vnote
+
