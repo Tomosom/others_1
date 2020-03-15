@@ -1,0 +1,77 @@
+{
+    "snippets": [
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "color red",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "color blue",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "color green",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "color purple",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "mark",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "insert block",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "insert cpp block",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "insert c block",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        },
+        {
+            "auto_indent": false,
+            "cursor_mark": "@@",
+            "name": "insert sh block",
+            "selection_mark": "$$",
+            "shortcut": "",
+            "type": 0
+        }
+    ],
+    "version": "1"
+}
